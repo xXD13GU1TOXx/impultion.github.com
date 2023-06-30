@@ -1,0 +1,116 @@
+html{
+    background-color: #FFFFFF;
+}
+body{
+    background-color: white;
+    margin: auto;
+    width: 98%;
+    height: 100%;
+}
+.redes-sociales{
+    right: 0;
+    position: fixed;
+    top: 45%;
+    font-size:24px;
+    display:flex;
+    flex-direction:column;
+    z-index:100;
+    align-items: flex-end
+}
+.icon{
+    color:white;
+    text-decoration:none;
+    padding: 8px;
+    display:flex;
+    transition: all .15s;
+}
+.icon:hover{
+    padding-right:18px;
+    border-radius: 10px 0 0 10px;
+    box-shadow: 0 0 5px white;
+}
+.icon-facebook2{
+    background:white;
+}
+.icon-instagram{
+    background:white;
+    border-radius: 2px 0 0 10px;
+}
+.icon-tiktok{
+    background:white;
+    border-radius: 10px 0 0 2px;
+}
+header{
+    background-color: white;
+    width:100%;
+    height: 50px;
+}
+section#navigation{
+    width: 85%;
+    height:50px;
+    background-color:white;
+    float:right
+}
+section#logo{
+    width: 15%;
+    height:120px;
+    background-color: white;
+    float:left
+}
+nav{
+    background-color: white;
+}
+main{
+    width: 100%;
+    height:500px;
+    background-color:white;
+    float:left
+}
+section#principal{
+    width: 75%;
+    height:300px;
+    background-color:whitesmoke;
+    float:left
+}
+section#noticias{
+    width: 20%;
+    height:200px;
+    background-color:whitesmoke;
+    float:right
+}
+section#notas{
+    width: 20%;
+    height:150px;
+    background-color:white;
+    float:right
+}
+section#archivo{
+    width: 75%;
+    height:50px;
+    background-color:whitesmoke;
+    float:left
+}
+section#cont_relac{
+    width: 90%;
+    height:100px;
+    background-color:whitesmoke;
+    float:left
+}
+footer{
+    width: 100%;
+    height:100px;
+    background-color:white;
+    float:left
+}
+section#logo1{
+    width: 20%;
+    height:170px;
+    background-color:white;
+    float:right
+}
+section#contacto{
+    width: 80%;
+    height:100px;
+    background-color:white;
+    float:left
+}

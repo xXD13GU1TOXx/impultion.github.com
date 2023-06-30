@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?4sq7nm');
+  src:  url('fonts/icomoon.eot?4sq7nm#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?4sq7nm') format('truetype'),
+    url('fonts/icomoon.woff?4sq7nm') format('woff'),
+    url('fonts/icomoon.svg?4sq7nm#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tiktok:before {
+  content: "\e900";
+}
+.icon-user-plus:before {
+  content: "\e973";
+}
+.icon-unlocked:before {
+  content: "\e990";
+}
+.icon-cog:before {
+  content: "\e994";
+}
+.icon-cogs:before {
+  content: "\e995";
+}
+.icon-switch:before {
+  content: "\e9b6";
+}
+.icon-enter:before {
+  content: "\ea13";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}

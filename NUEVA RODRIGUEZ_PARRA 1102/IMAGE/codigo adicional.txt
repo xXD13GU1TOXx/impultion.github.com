@@ -1,0 +1,34 @@
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-telegram:before {
+  content: "\ea95";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-mail:before {
+  content: "\ea83";
+}
+
+
+
+.icon-mail{
+    background:white;
+}
+.icon-telegram{
+    background:white;
+}
+.icon-twitter{
+    background:white;
+}
+.icon-youtube{
+    background:white;
+    border-radius: 2px 0 0 10px;
+}
+.icon-whatsapp{
+    background:white;
+}
